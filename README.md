@@ -6,11 +6,10 @@ A sophisticated Python application designed to measure and improve boxing reacti
 ## 🌟 Features
 
 - **Real-time Face Tracking**: Uses OpenCV's Haar Cascade classifier for accurate face detection
-- **Camera Lag Calibration**: Advanced calibration system to account for camera delay
+- **Camera Lag Calibration**: Calibration system to account for camera delay
 - **Response Time Measurement**: Precise measurement of reaction times in milliseconds
 - **Visual Feedback**: Clear visual cues and on-screen instructions
-- **Statistics Tracking**: Keeps track of average response times
-- **Fullscreen Support**: Optimized for fullscreen operation
+- **Statistics Tracking**: Keeps track of average session response times
 
 ## 🔧 Requirements
 
